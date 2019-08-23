@@ -1,5 +1,4 @@
-//apply plugin: 'com.android.application'
-apply plugin : 'com.android.library'
+apply plugin: 'com.android.application'
 
 apply plugin: 'kotlin-android'
 
@@ -16,7 +15,7 @@ android {
     }
     compileSdkVersion 28
     defaultConfig {
-//        applicationId "com.androidcheat"
+        applicationId "com.androidcheat"
         minSdkVersion 19
         targetSdkVersion 28
         versionCode 1
