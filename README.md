@@ -18,7 +18,7 @@ allprojects {
 ### And add next dependencies in the build.gradle of the module    
 ```gradle
 dependencies {
-    implementation 'com.github.qjatjr1108:androidcheat:0.4'
+    implementation 'com.github.qjatjr1108:androidcheat:0.5'
 ```
 <br>
 

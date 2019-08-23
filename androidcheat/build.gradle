@@ -81,7 +81,7 @@ dependencies {
 
 apply plugin: 'com.github.dcendents.android-maven'
 group = 'com.github.qjatjr1108'
-version = '0.4'
+version = '0.5'
 
 
 repositories {
