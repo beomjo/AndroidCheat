@@ -1,9 +1,9 @@
-[![Release](https://jitpack.io/v/13mile/androidcheat.svg)](https://jitpack.io/#13mile/androidcheat)
+[![Release](https://jitpack.io/v/qjatjr1108/androidcheat.svg)](https://jitpack.io/#qjatjr1108/androidcheat)
 
 # AndroidCheat
 
 
-# Setup    
+# Setup
 ### Add the JitPack repository in your build.gradle (top level module)    
 ```gradle
 allprojects {
@@ -18,9 +18,8 @@ allprojects {
 ### And add next dependencies in the build.gradle of the module    
 ```gradle
 dependencies {
-    implementation 'com.github.13mile:androidcheat:0.4'
-}
-```    
+    implementation 'com.github.qjatjr1108:androidcheat:0.4'
+```
 <br>
 
 ### Application class onCreate() in word   
